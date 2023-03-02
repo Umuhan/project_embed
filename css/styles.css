@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+.top {
+    background-color: #F5EAEA;
+}
+.dropdown-toggle {
+    background-color:#EEEEEE;
+    color: black;
+}
+
+.column{
+    text-align: left;
+    padding-left: 10%;
+    background-color: #F9DBBB;
+    
+
+}
+
+
+
+.button{ 
+    text-align: right;
+    background-color: #FFF1DC;
+    padding: 10px;
+}
+
+.fa-solid {
+    color: black;
+}
+.title-image1 {
+    position: relative;
+    top: -27em;
+    width: 100px;
+    height: 9.5rem;
+    margin: 15px 40% ;
+    float: right ;
+
+
+}
+
+.title-image2 {
+    position: relative;
+    top: -28em;
+    width: 100px;
+    height: 100%;
+    margin: 15px 40%  ;
+    float: right ;
+
+
+}
+
+.title-image3 {
+    position: relative;
+    top: -27em;
+    width: 100px;
+    height: 100%;
+    margin: 15px 40%;
+    float: right ;
+
+}
+
